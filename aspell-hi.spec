@@ -1,5 +1,5 @@
 Summary:	Hindi dictionary for aspell
-Summary(pl):	S≥ownik hindi dla aspella
+Summary(pl.UTF-8):   S≈Çownik hindi dla aspella
 Name:		aspell-hi
 Version:	0.01
 %define	subv	0
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Hindi dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik hindi (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik hindi (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-hi-%{version}-%{subv}
