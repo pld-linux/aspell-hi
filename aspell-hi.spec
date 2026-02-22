@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik hindi dla aspella
 Name:		aspell-hi
 Version:	0.02
 %define	subv	0
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/hi/aspell6-hi-%{version}-%{subv}.tar.bz2
